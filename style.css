@@ -562,3 +562,11 @@ textarea {
   box-shadow: 0 1px 1px 0 rgba(0,0,0,0.10),
             0 1px 1px 0 rgba(0,0,0,0.09);
 }
+.table {
+
+    background-color: rgba(150, 176, 212, 0.4)
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(64, 200, 200, 0.4);
+  }
